@@ -1,2 +1,0 @@
-# sagemath
-sage jupyter notebooks
